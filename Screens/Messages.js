@@ -4,7 +4,6 @@ import { GiftedChat } from 'react-native-gifted-chat';
 import { View, Text, TouchableOpacity, ScrollView, StyleSheet, Image, Button } from 'react-native';
 import { clubData } from '../Data/clubData';
 
-// Custom Checkbox Component
 const CustomCheckbox = ({ isChecked, onCheck, label }) => (
   <TouchableOpacity onPress={onCheck} style={{ flexDirection: 'row', alignItems: 'center' }}>
     <View style={{
