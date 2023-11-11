@@ -40,5 +40,4 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
   },
-  //additional styles you need
 });
