@@ -38,4 +38,4 @@ Close the app and reopen it.
 Restart your device if the problem persists.
 
 # LINK TO APK
-https://utdallas.box.com/s/f1r6n43fqiqk3shqlydvxqltx2xe6m0v
+https://utdallas.box.com/s/wgnqgrcejv3s7kfpdp4zmbg2aypeqqk4
